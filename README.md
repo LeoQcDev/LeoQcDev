@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoQcDev
 - 👀 I’m interested in IAs, Machine learning
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me ...
 
 <!---
